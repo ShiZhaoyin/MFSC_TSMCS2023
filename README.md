@@ -1,2 +1,2 @@
 # MFSC_TSMCS2023
-The code of MFSC
+"Manifold Enhanced 2-D Fuzzy Subspace Clustering  for Image Data" was published in "IEEE Transactions on Systems, Man, and Cybernetics: Systems". This code is for academic communication purposes only. To use this code, please cite the paper: "Manifold Enhanced 2-D Fuzzy Subspace Clustering  for Image Data, Zhaoyin Shi, Long Chen, et.al. IEEE Transactions on Systems, Man, and Cybernetics: Systems, vol.53(02): 741-752. Doi: 10.1109/TSMC.2022.3188364".
